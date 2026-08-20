@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./banner.png" width="100%"/>
+<img src=".github-header-banner.png" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=440&lines=Welcome+to+my+little+corner+of+GitHub+%E2%9C%A8;I+build+a+bit+of+everything+%F0%9F%92%BB;Always+learning%2C+always+curious+%F0%9F%8C%B1" alt="Typing SVG" />
 
@@ -16,17 +16,3 @@
 - ⚡ Fun fact: I love turning small ideas into fun little builds
 
 <br>
-
-## 🌷 Let's Connect
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/-spurthiraghothama-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/spurthiraghothama)
-
-</div>
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:A78BFA,100:A78BFA&height=120&section=footer" width="100%"/>
-
-</div>
